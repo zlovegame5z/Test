@@ -12,5 +12,5 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('frontend.welcome', ['name' => '大帥哥']);
 });

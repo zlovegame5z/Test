@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    你好啊 ! {{$name}} 。
                 </div>
 
                 <div class="links">
